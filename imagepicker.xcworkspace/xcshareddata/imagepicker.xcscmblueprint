@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2D68774F9407A933F17C3D80D533A389D5236AF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2D68774F9407A933F17C3D80D533A389D5236AF1" : 9223372036854775807,
+    "5C0812D2A52B034AF2162A24A18EA0F3499E05CA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "94B0BACE-54BF-4F01-88F9-1E1FE6A8666E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2D68774F9407A933F17C3D80D533A389D5236AF1" : "imagepicker\/",
+    "5C0812D2A52B034AF2162A24A18EA0F3499E05CA" : "imagepicker\/imagepicker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "imagepicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "imagepicker.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ckuang4\/BookScanner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D68774F9407A933F17C3D80D533A389D5236AF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ckuang4\/bookscan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C0812D2A52B034AF2162A24A18EA0F3499E05CA"
+    }
+  ]
+}
